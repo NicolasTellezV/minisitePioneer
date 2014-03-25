@@ -1,0 +1,88 @@
+#container{
+width: 1000px;
+height: auto;
+margin: auto;
+}
+
+
+#encabezado{
+  width: 500 px;
+  margin:auto;
+  text-align: center;
+  border: 1px solid black;
+    margin-top: 10px;
+  
+    
+  
+}
+
+#nav{
+  
+  width: 1000 px;
+  margin:auto;
+  display:inline-block;
+  border: 1px solid black;
+   margin-top: 50px;
+      margin-right: 100px;
+    margin-left: 100px
+}
+
+
+#footer{
+ width: 1000 px;
+  margin:auto;
+  border: 1px solid black;
+}
+
+body{
+ background-color:black;
+}
+
+a:link {
+color:#ff1122;
+}
+
+a:visited{
+color:#ff1122;
+}
+
+a:hover{
+font-size:15px;
+color:white;
+}
+
+.pie{
+color:#ff1122;
+}
+
+.audifonos
+{
+border-radius: 50px;
+    display: block;
+}
+
+.letrablanca{
+color:white;
+    display: block;
+    font-size: 17px;
+        font-family: sans-serif;
+    text-align: justify;
+}
+
+.letrablancaT{
+color:white;
+font-size: 35px;
+    font-family: sans-serif;
+}
+
+#divtexto{
+width: 410px;
+    height: 410px;
+    display: inline-block;
+    margin-left: 34px;
+    
+}
+
+#divimagen{
+    display: inline-block;
+}

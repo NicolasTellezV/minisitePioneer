@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#container{
+width: 1200px;
+height: auto;
+margin: auto;
+}
+
+
+#encabezado{
+  width: 500 px;
+  margin:auto;
+  text-align: center;
+  border: 1px solid black;
+  
+  
+}
+
+#nav{
+  
+  width: 1000 px;
+  margin:auto;
+  display:inline-block;
+  border: 1px solid black;
+ 
+      margin-right: 100px;
+    margin-left: 100px;
+}
+
+
+#footer{
+ width: 1000px;
+  margin:auto;
+  border: 1px solid black;
+}
+
+body{
+ background-color:black;
+}
+
+.divaudifonos{
+margin-top: 50px;
+ 
+margin-bottom: 50px;
+display: inline-block;
+}
+
+.imgradiusimgs{
+border-radius: 20px;
+-webkit-box-shadow: 3px 3px 1px #a3a3a3;
+}
+
+
+.inline {
+display: inline-block;
+}
+
+.bloqueimg{
+display: block;
+margin-top: 15px;
+margin-left: 10px;   
+margin-bottom: 30px;
+}
+
+.bloqueimg1 {
+display: block;
+margin-top: 15px;
+margin-left: 10px;   
+margin-bottom: 15px;
+}
+
+.bloqueredes{
+display: block;
+margin-top: 15px;
+margin-left: 5px;   
+}
+
+.pie{
+color:#ff1122;
+}
+
+a:link {
+color:#ff1122;
+}
+
+a:visited{
+color:#ff1122;
+}
+
+a:hover{
+font-size:15px;
+color:white;
+}
